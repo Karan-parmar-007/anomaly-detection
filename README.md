@@ -124,8 +124,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Karan Parmar - karan.ai.engineer@gmail.com
-
-Project Link: [https://github.com/your-username/time-series-anomaly-detection](https://github.com/your-username/time-series-anomaly-detection)
+Portfolio - [https://karanparmar.in](https://karanparmar.in)
+Project Link: [https://github.com/Karan-parmar-007/anomaly-detection.git](https://github.com/Karan-parmar-007/anomaly-detection.git)
 
 ---
 
